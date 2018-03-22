@@ -1,0 +1,18 @@
+<keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f12" />
+  </action>
+</keymap>

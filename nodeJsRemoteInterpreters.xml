@@ -1,0 +1,5 @@
+<application>
+  <component name="NodeJSRemoteInterpreters">
+    <interpreter node-remote-interpreter="vagrant://C:/repositories/SkyDreams/Default@web/home/vagrant/.nvm/versions/node/v9.4.0/bin/node" VAGRANT_FOLDER="C:\repositories\SkyDreams\Default" MACHINE_NAME="web" INTERPRETER_PATH="/home/vagrant/.nvm/versions/node/v9.4.0/bin/node" HELPERS_PATH="/home/vagrant/.webstorm_nodejs_helpers" INITIALIZED="false" VALID="true" VERSION="9.4.0" />
+  </component>
+</application>
