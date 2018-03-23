@@ -9,14 +9,6 @@
       <PhpCSConfiguration tool_path="C:\php\phpcs.bat" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="C:\php\php.exe" id="12e75e6d-3b88-4918-9be3-9d404cb4273d" name="PHP" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://vagrant@192.168.33.10:22/usr/bin/php" id="b784e9af-efa8-406c-b4ef-7f252aa7fc68" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.33.10" PORT="22" USERNAME="vagrant" PRIVATE_KEY_FILE="C:\repositories\SkyDreams\Default\.vagrant\machines\web\virtualbox\private_key" USE_KEY_PAIR="true" USE_AUTH_AGENT="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 7">
@@ -658,10 +650,5 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
-  </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="b784e9af-efa8-406c-b4ef-7f252aa7fc68" load_method="PHPUNIT_PHAR" configuration_file_path="/var/www/app/default/symfony-standard/app_api/phpunit.xml" custom_loader_path="/usr/bin/phpunit" phpunit_phar_path="/usr/local/bin/phpunit" use_configuration_file="true" />
-    </phpunit_settings>
   </component>
 </application>
