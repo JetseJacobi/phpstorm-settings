@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="342f3679-ba0c-4af8-a5b0-1f4d1d5fe4d1" name="Default" url="http://localhost">
-        <fileTransfer host="192.168.33.10" port="22" privateKey="C:\repositories\SkyDreams\Default\.vagrant\machines\web\virtualbox\private_key" rootFolder="/var/www/app/default" accessType="SFTP" keyPair="true">
+        <fileTransfer host="192.168.33.10" port="22" privateKey="C:\Users\jetse.jacobi\.vagrant.d\insecure_private_key" rootFolder="/var/www/app/default" accessType="SFTP" keyPair="true">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
