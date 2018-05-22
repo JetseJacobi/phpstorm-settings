@@ -1,0 +1,7 @@
+<templateSet group="Angular">
+  <template name="sky-panel" value="&lt;sky-panel&gt;&#10;    &lt;div panel-title&gt;&#10;    &#10;    &lt;/div&gt;&#10;    &#10;    &lt;div panel-body&gt;&#10;    &#10;    &lt;/div&gt;&#10;&lt;/sky-panel&gt;" description="Insert a sky-panel" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
