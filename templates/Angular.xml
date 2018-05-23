@@ -4,4 +4,9 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="sky-modal" value="&lt;sky-modal class=&quot;modal-dialog&quot; [title]=&quot;'' | translate&quot;&gt;&#10;    &lt;div content&gt;&#10;     &#10;    &lt;/div&gt;&#10;    &lt;div footer&gt;&#10;        &lt;div class=&quot;text-right&quot;&gt;&#10;            &lt;sky-button type=&quot;btn-secondary&quot; (submit)=&quot;modal.close()&quot;&gt;&#10;                &lt;span class=&quot;label-button&quot;&gt;&#10;                    &#10;                &lt;/span&gt;&#10;            &lt;/sky-button&gt;&#10;&#10;            &lt;sky-button&gt;&#10;                &#10;            &lt;/sky-button&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&lt;/sky-modal&gt;&#10;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
