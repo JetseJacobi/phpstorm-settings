@@ -7,7 +7,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration tool_path="C:\php\phpcs.bat" />
-      <phpcs_by_interpreter interpreter_id="2045cbb2-8820-480d-bb4f-3c1e0c9380e6" tool_path="/var/www/app/phpcs.phar" />
+      <phpcs_by_interpreter interpreter_id="2045cbb2-8820-480d-bb4f-3c1e0c9380e6" tool_path="/var/www/app/default/symfony-standard/app_leadsite/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
