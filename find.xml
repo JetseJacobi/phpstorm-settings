@@ -20,7 +20,7 @@
     <mask>!*.twig</mask>
     <mask>*.php</mask>
     <mask>!*Test*</mask>
-    <mask>*.scss</mask>
     <mask>*.yml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
