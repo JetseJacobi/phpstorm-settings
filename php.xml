@@ -1,10 +1,12 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="C:\php\phpmd.bat" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration tool_path="C:\php\phpcs.bat" />
     </phpcs_settings>
