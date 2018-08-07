@@ -11,7 +11,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="26b71565-0477-4dfa-81bb-893ceff0efd2" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
+      <interpreter home="\usr\bin\php" id="26b71565-0477-4dfa-81bb-893ceff0efd2" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
