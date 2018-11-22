@@ -21,7 +21,6 @@
     <mask>*.html</mask>
     <mask>*.md</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.de.yml</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
@@ -29,5 +28,6 @@
     <mask>routing.yml</mask>
     <mask>*.sql</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
