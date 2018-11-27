@@ -27,7 +27,7 @@
     <mask>*.env</mask>
     <mask>routing.yml</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
