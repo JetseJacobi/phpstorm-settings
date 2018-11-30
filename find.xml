@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -20,7 +21,6 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.md</mask>
-    <mask>*.js</mask>
     <mask>*.de.yml</mask>
     <mask>*.less</mask>
     <mask>*.env</mask>
@@ -29,5 +29,6 @@
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
