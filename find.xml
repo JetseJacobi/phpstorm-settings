@@ -30,7 +30,7 @@
     <mask>rout*.yml</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.php</mask>
   </component>
 </application>
