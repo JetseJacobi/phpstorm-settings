@@ -33,7 +33,7 @@
     <mask>routing.yml</mask>
     <mask>*.scss</mask>
     <mask>!*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
