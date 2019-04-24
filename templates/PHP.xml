@@ -5,4 +5,16 @@
     <variable name="RETURNTYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="test" value="public function test$NAME$() {&#10;    $END$&#10;}" description="create test function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
+  <template name="con" value="public function __construct($PARAMETERS$) {&#10;    $END$&#10;}" description="create a constructor" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+    </context>
+  </template>
 </templateSet>
