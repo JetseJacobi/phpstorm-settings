@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\symfony-standard\app_leadsite\src\B2bSelfServiceBundle\Tests\Service\Membership\Activation\ActivationServiceFactoryTest.php [Default]'" />
-    <option name="defaultScopeName" value="File '...\symfony-standard\app_leadsite\src\B2bSelfServiceBundle\Tests\Service\Membership\Activation\ActivationServiceFactoryTest.php [Default]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\symfony-standard\app_leadsite\src\B2bSelfServiceBundle\Tests\Service\Membership\Activation\ActivationServiceFactoryTest.php [Default]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test*" />
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -30,10 +31,10 @@
     <mask>!*.ts</mask>
     <mask>*.php</mask>
     <mask>composer.json</mask>
-    <mask>!*Test*</mask>
     <mask>*.js</mask>
     <mask>*Test*</mask>
     <mask>*.yml</mask>
     <mask>.env.dist</mask>
+    <mask>!*Test*</mask>
   </component>
 </application>
