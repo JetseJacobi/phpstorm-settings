@@ -27,6 +27,7 @@
     <mask>!*.twig</mask>
     <mask>routing.yml</mask>
     <mask>*Controller*</mask>
+    <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
