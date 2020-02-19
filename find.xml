@@ -5,36 +5,35 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test*" />
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>!*.yml</mask>
-    <mask>!*.twig</mask>
-    <mask>*Extension.php</mask>
-    <mask>*.md</mask>
-    <mask>*.de.yml</mask>
-    <mask>*.less</mask>
-    <mask>*.env</mask>
+    <mask>routing*</mask>
+    <mask>*scss</mask>
+    <mask>*yml</mask>
+    <mask>*twig</mask>
+    <mask>*js</mask>
+    <mask>*`.js</mask>
     <mask>*.sql</mask>
-    <mask>!*en.yml</mask>
-    <mask>*.bas*</mask>
-    <mask>*.twig</mask>
-    <mask>rout*.yml</mask>
-    <mask>!*test*</mask>
-    <mask>*.ts</mask>
-    <mask>*.html</mask>
-    <mask>routing.yml</mask>
-    <mask>*.scss</mask>
-    <mask>!*.ts</mask>
-    <mask>*.php</mask>
+    <mask>*.less</mask>
+    <mask>*step1.html.twig</mask>
     <mask>composer.json</mask>
-    <mask>*.js</mask>
-    <mask>*Test*</mask>
-    <mask>*.yml</mask>
-    <mask>.env.dist</mask>
+    <mask>*dak**.nl*</mask>
     <mask>!*Test*</mask>
+    <mask>*.json</mask>
+    <mask>*Test*</mask>
+    <mask>*en.yml</mask>
+    <mask>*.sh</mask>
+    <mask>!*.yml</mask>
+    <mask>*.xml</mask>
+    <mask>!*.xml</mask>
+    <mask>!*.twig</mask>
+    <mask>routing.yml</mask>
+    <mask>*Controller*</mask>
+    <mask>*.html</mask>
+    <mask>*.js</mask>
+    <mask>*.ts</mask>
+    <mask>*.nl.yml</mask>
+    <mask>*.yml</mask>
+    <mask>*.twig</mask>
+    <mask>*.scss</mask>
+    <mask>*.php</mask>
   </component>
 </application>
