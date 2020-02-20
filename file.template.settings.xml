@@ -4,6 +4,9 @@
       <template name="Typescript class༏ext༏.model.ts" reformat="true" live-template-enabled="true" />
       <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
     </default_templates>
+    <includes_templates>
+      <template name="PHP Property Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
+    </includes_templates>
     <code_templates>
       <template name="PHP Constructor.php" reformat="true" live-template-enabled="true" enabled="true" />
       <template name="PHP Getter Method.php" reformat="true" live-template-enabled="true" enabled="true" />

@@ -2,5 +2,8 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
     <ignoreAction name="XML/Collapse empty tag" />
+    <ignoreAction name="PHP/Add @property" />
+    <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="PHP/Inject language using PHPDoc" />
   </component>
 </application>
