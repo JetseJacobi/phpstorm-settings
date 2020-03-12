@@ -5,13 +5,13 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="composer.json" />
     <mask>*twig</mask>
     <mask>*js</mask>
     <mask>*`.js</mask>
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*step1.html.twig</mask>
-    <mask>composer.json</mask>
     <mask>*dak**.nl*</mask>
     <mask>!*Test*</mask>
     <mask>*.json</mask>
@@ -35,5 +35,6 @@
     <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>AppKernel.php</mask>
+    <mask>composer.json</mask>
   </component>
 </application>
