@@ -5,6 +5,7 @@
       <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
     </default_templates>
     <includes_templates>
+      <template name="PHP Instance Property.php" reformat="true" live-template-enabled="true" />
       <template name="PHP Property Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
     </includes_templates>
     <code_templates>
