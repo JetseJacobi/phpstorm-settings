@@ -4,9 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*twig</mask>
     <mask>*js</mask>
     <mask>*`.js</mask>
@@ -24,7 +27,6 @@
     <mask>routing.yml</mask>
     <mask>*Controller*</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*.ts</mask>
     <mask>*.nl.yml</mask>
     <mask>*AppKernel*</mask>
@@ -34,8 +36,9 @@
     <mask>AppKernel.php</mask>
     <mask>*.html</mask>
     <mask>composer.json</mask>
-    <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
