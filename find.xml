@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*twig</mask>
     <mask>*js</mask>
     <mask>*`.js</mask>
@@ -17,7 +18,6 @@
     <mask>*step1.html.twig</mask>
     <mask>*dak**.nl*</mask>
     <mask>!*Test*</mask>
-    <mask>*.json</mask>
     <mask>*en.yml</mask>
     <mask>*.sh</mask>
     <mask>!*.yml</mask>
@@ -39,5 +39,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
