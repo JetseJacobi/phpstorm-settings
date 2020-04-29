@@ -37,7 +37,7 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
