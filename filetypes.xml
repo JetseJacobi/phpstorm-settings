@@ -6,6 +6,7 @@
       <mapping pattern="routing_b2c_for_symfony_3_4" type="PLAIN_TEXT" />
       <mapping pattern="CancellationPeriodType" type="PLAIN_TEXT" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="MailLayoutLoaderTest" type="PLAIN_TEXT" />
       <mapping pattern="input-block" type="PLAIN_TEXT" />
