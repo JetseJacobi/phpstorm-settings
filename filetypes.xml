@@ -1,21 +1,21 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="2018-09-21-userstory-40305-extract-lead-data" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="routing_b2c_for_symfony_3_4" type="PLAIN_TEXT" />
-      <mapping pattern="CancellationPeriodType" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="MailLayoutLoaderTest" type="PLAIN_TEXT" />
       <mapping pattern="input-block" type="PLAIN_TEXT" />
+      <mapping pattern="2018-09-21-userstory-40305-extract-lead-data" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="CancellationPeriodType" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="MailLayoutLoaderTest" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="routing_b2c_for_symfony_3_4" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping ext="enabled" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="twig2" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
