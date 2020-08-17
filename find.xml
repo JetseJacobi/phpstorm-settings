@@ -5,13 +5,13 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test*" />
     <mask>*js</mask>
     <mask>*`.js</mask>
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*step1.html.twig</mask>
     <mask>*dak**.nl*</mask>
-    <mask>!*Test*</mask>
     <mask>*en.yml</mask>
     <mask>*.sh</mask>
     <mask>!*.yml</mask>
@@ -35,5 +35,6 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>.env</mask>
+    <mask>!*Test*</mask>
   </component>
 </application>
