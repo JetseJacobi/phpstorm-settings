@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/1999/xlink.xsd" location="$USER_HOME$/AppData/Local/JetBrains/PhpStorm2020.1/extResources/c47cf7a_xlink.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/AppData/Local/JetBrains/PhpStorm2020.1/extResources/9b192256_xml.xsd" />
+    <resource url="https://symfony.com/schema/dic/constraint-mapping/constraint-mapping-1.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/PhpStorm2020.1/extResources/21264c1_constraint-mapping-1.0.xsd" />
+  </component>
+</application>

@@ -3,5 +3,17 @@
     <default_templates>
       <template name="Typescript class༏ext༏.model.ts" reformat="true" live-template-enabled="true" />
     </default_templates>
+    <internal_templates>
+      <template name="PHPUnit Test.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="PHP Instance Property.php" reformat="true" live-template-enabled="true" />
+      <template name="PHP Property Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
+    </includes_templates>
+    <code_templates>
+      <template name="PHP Constructor.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Getter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
+      <template name="PHP Setter Method.php" reformat="true" live-template-enabled="true" enabled="true" />
+    </code_templates>
   </component>
 </application>
