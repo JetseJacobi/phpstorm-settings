@@ -29,11 +29,11 @@
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>.env</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>!*Test*</mask>
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*.j2</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
