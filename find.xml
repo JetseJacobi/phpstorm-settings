@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*`.js</mask>
+    <option name="FILE_MASK" value="*nl_BE*.yml" />
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*step1.html.twig</mask>
@@ -35,5 +35,6 @@
     <mask>!*Test*</mask>
     <mask>*Test*</mask>
     <mask>*.yml</mask>
+    <mask>*nl_BE*.yml</mask>
   </component>
 </application>
