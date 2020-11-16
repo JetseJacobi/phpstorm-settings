@@ -33,7 +33,7 @@
     <mask>*.php</mask>
     <mask>!*Test*</mask>
     <mask>*Test*</mask>
-    <mask>*.yml</mask>
     <mask>*nl_BE*.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
