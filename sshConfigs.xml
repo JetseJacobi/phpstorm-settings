@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="192.168.33.10" id="e0581e6d-fcc4-4133-ace3-f536c0faa60d" keyPath="$USER_HOME$\.vagrant.d\insecure_private_key" port="22" customName="vagrant" nameFormat="CUSTOM" username="vagrant">
+      <sshConfig host="192.168.33.10" id="e0581e6d-fcc4-4133-ace3-f536c0faa60d" keyPath="C:\Users\jetse.jacobi\.vagrant.d\insecure_private_key" port="22" customName="vagrant" nameFormat="CUSTOM" username="vagrant">
         <option name="customName" value="vagrant" />
       </sshConfig>
     </configs>
