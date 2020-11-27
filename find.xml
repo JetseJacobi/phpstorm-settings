@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.sql</mask>
     <mask>*.less</mask>
     <mask>*step1.html.twig</mask>
@@ -30,12 +31,12 @@
     <mask>*.j2</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>!*Test*</mask>
     <mask>*Test*</mask>
     <mask>*nl_BE*.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
