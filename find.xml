@@ -7,8 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
-    <mask>*.less</mask>
+    <option name="FILE_MASK" value="*.model.ts" />
     <mask>*step1.html.twig</mask>
     <mask>*dak**.nl*</mask>
     <mask>*en.yml</mask>
@@ -38,5 +37,6 @@
     <mask>rout*</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
+    <mask>*.model.ts</mask>
   </component>
 </application>
